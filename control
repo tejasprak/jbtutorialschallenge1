@@ -1,0 +1,9 @@
+Package: me.tejasp.jbtutorialschallenge1
+Name: JBTutorialsChallenge1
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Tejas Prakash
+Author: Tejas Prakash
+Section: Tweaks
